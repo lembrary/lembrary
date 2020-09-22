@@ -1,5 +1,3 @@
 module Def_split_1 where 
 
-import Def_midpoint_0
-
-split xs = [take (midpoint xs) xs, drop (midpoint xs) xs]
+split xs == [[4,3,1], [5,1,6,4]]
