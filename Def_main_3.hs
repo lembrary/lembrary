@@ -1,4 +1,5 @@
 module Def_main_3 where 
-import Def_x_2
+import Def_xs_0
+import Def_split_3
 
-main = print (x)
+main = print (split xs)
