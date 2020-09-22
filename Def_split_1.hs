@@ -1,3 +1,5 @@
 module Def_split_1 where 
 
-split xs == [[4,3,1], [5,1,6,4]]
+import Def_middle_1
+
+split xs = [take (middle xs) xs, drop (middle xs) xs]
