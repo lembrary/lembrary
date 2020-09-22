@@ -1,5 +1,4 @@
 module Def_main_0 where 
-import Def_testList_0
-import Def_middle_1
+import Def_merge_0
 
-main = print (middle testList)
+main = print (merge [2,3] [1,4])
