@@ -1,5 +1,4 @@
 module Def_main_3 where 
-import Def_xs_0
-import Def_split_3
+import Def_merge_0
 
-main = print (split xs)
+main = print (merge [1,2] [3,4])
