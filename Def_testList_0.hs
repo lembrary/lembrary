@@ -1,3 +1,3 @@
 module Def_testList_0 where 
 
-testList = [4,3,2,1,6,4,6,9]
+testList = [4,3,6,2,7,6,2,4]
