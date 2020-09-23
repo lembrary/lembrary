@@ -1,5 +1,4 @@
 module Def_main_20 where 
-import Data.List
-import Def_x_3
+import Def_square_0
 
-main = print (x)
+main = print (square')
