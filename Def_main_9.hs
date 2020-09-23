@@ -1,5 +1,4 @@
 module Def_main_9 where 
-import Def_sort_1
-import Def_xs_0
+import Def_f_0
 
-main = print (sort xs)
+main = print (f)
