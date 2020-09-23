@@ -1,4 +1,3 @@
 module Def_main_23 where 
-import Data.List
 
-main = print (ls)
+main = print (3 + 5)
