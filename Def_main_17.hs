@@ -1,4 +1,4 @@
 module Def_main_17 where 
-import Data.List
+import Def_square2_0
 
-main = print (help)
+main = print (square2 99)
