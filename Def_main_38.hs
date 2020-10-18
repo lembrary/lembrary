@@ -1,5 +1,5 @@
 module Def_main_38 where 
-import Data.Maybe
-import Def_Goob_1
+import Data.Text
+import Def_DNA_0
 
-main = print $ Geeb :: Goob
+main = print (DNA)

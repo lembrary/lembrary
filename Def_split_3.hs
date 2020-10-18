@@ -1,3 +1,5 @@
 module Def_split_3 where 
 
-split xs pivot = [take pivot xs, drop pivot xs]
+import Def_pivot_0
+
+split xs = [take (pivot xs) xs, drop (pivot xs) xs]

@@ -1,6 +1,4 @@
 module Def_main_45 where 
-import Data.Maybe
-import Def_Goob_1
-import Def_fusion_rule_str_2
+import Data.Text
 
-main = print (fusion_rule_str)
+main = print (showpins)

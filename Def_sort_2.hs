@@ -1,3 +1,5 @@
 module Def_sort_2 where 
-import Def_split_1
-sort x = merge $ map sort $ split x
+
+import Def_merge_1
+
+sort xs = if length xs < 2 then xs else merge $ map sort $ split xs

@@ -1,6 +1,4 @@
 module Def_main_47 where 
-import Data.Maybe
-import Def_Goob_1
-import Def_fib_fr_0
+import Def_add1_0
 
-main = print (fib_fr)
+main = print (add1 383)

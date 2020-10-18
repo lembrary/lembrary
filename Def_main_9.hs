@@ -1,3 +1,4 @@
 module Def_main_9 where 
-import Def_z_0
-main = print $ z
+import Def_f_0
+
+main = print (f)

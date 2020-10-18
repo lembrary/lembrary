@@ -1,6 +1,4 @@
 module Def_main_60 where 
-import Data.Maybe
-import Def_Goob_1
-import Def_i_3
+import Def_e_8
 
-main = print (i)
+main = print (e 3 + 4)

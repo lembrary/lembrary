@@ -1,5 +1,4 @@
 module Def_y_2 where 
+import Data.Text
 
-import Def_x_19
-
-y = x + 2
+y = pack y

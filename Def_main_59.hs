@@ -1,6 +1,4 @@
 module Def_main_59 where 
-import Data.Maybe
-import Def_Goob_1
-import Def_ising1_0
+import Def_x_4
 
-main = print (words ising1)
+main = print (x)

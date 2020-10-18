@@ -1,6 +1,4 @@
 module Def_main_51 where 
-import Data.Maybe
-import Def_Goob_1
-import Def_ising_0
+import Def_add1_0
 
-main = print (show ising)
+main = print (add1 22)

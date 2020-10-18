@@ -1,3 +1,4 @@
 module Def_main_28 where 
-import Def_sort_6
-main = print $ (sort [2, 5, 6, 4, 3])
+import Def_reverse_1
+
+main = print (reverse [1,2,3])

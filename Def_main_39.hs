@@ -1,5 +1,5 @@
 module Def_main_39 where 
-import Data.Maybe
-import Def_Goob_1
+import Data.Text
+import Def_y_1
 
-main = print (Geeb :: Goob)
+main = print (y ++ "Hellow World")

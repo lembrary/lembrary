@@ -1,8 +1,4 @@
 module Def_e_4 where 
-import Network.HTTP.Base
-import Network.HTTP.Headers
-import Network.HTTP
-import Data.List
-import Def_proc4_5
+import Data.Text
 
-e = proc4
+e = G

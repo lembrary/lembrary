@@ -1,2 +1,3 @@
 module Def_square_0 where 
-square s = s*s
+
+square x = x * x

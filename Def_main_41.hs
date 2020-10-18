@@ -1,6 +1,5 @@
 module Def_main_41 where 
-import Data.Maybe
-import Def_Goob_1
-import Def_x_7
+import Data.Text
+import Def_y_3
 
-main = print (x)
+main = print (y)

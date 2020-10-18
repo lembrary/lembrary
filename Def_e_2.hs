@@ -1,8 +1,5 @@
 module Def_e_2 where 
-import Network.HTTP.Base
-import Network.HTTP.Headers
-import Network.HTTP
-import Data.List
-import Def_procLine2_5
+import Data.Text
+import Def_DNA_0
 
-e = procLine2
+e = DNA

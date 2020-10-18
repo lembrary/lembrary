@@ -1,2 +1,4 @@
 module Def_x_2 where 
-x =88
+import Data.Text
+
+x = A

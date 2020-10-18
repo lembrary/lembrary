@@ -1,4 +1,4 @@
 module Def_main_33 where 
-import Data.Maybeimport Def_x_4
+import Def_y_0
 
-main = print $ x
+main = print (y)

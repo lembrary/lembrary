@@ -1,2 +1,3 @@
 module Def_pivot_1 where 
-pivot x = floor $ (length x) / 2
+
+pivot xs = (length xs) `div` 2

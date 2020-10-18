@@ -1,4 +1,5 @@
 module Def_main_36 where 
-import Data.Maybe
+import Data.Text
+import Def_x_0
 
-main = print $ Gob
+main = print (x)

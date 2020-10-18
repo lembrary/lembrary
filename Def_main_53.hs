@@ -1,6 +1,4 @@
 module Def_main_53 where 
-import Data.Maybe
-import Def_Goob_1
-import Def_isingN_0
+import Def_sort_3
 
-main = print (isingN)
+main = print (sort [2,4,5,6,7,2])

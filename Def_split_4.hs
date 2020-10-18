@@ -1,5 +1,4 @@
 module Def_split_4 where 
-import Def_split2_0
-import Def_pivot_5
+import Def_pivot_1
 
-split xs = split2 xs (pivot xs)
+split xs = [take (pivot xs) xs, drop (pivot xs) xs]

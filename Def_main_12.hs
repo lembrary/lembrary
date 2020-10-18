@@ -1,3 +1,4 @@
 module Def_main_12 where 
-import Def_z_2
-main = print $ z
+import Def_f_1
+
+main = print ((f 42):: Int)

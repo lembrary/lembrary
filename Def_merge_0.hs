@@ -1,2 +1,3 @@
 module Def_merge_0 where 
-merge x y = if head x < head y then (head x) : (merge (tail x) y) else (head y) : (merge x (tail y))
+
+merge xs ys = case (xs, ys) of ([], _) -> ys; (_, []) -> xs; (x:xt, y:yt) -> if x < y then x:(merge xt ys) else y:(merge xs yt)

@@ -1,3 +1,4 @@
 module Def_main_17 where 
-import Def_x_2
-main = print $ x
+import Def_square2_0
+
+main = print (square2 99)
