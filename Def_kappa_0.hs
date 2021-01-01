@@ -1,4 +1,3 @@
 module Def_kappa_0 where 
-import Data.List
 
-kappa = 2
+kappa x = x * x
